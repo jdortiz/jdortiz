@@ -1,0 +1,16 @@
+* Hey there! I'm Jorge
+
+** Bio
+I'm a developer evangelist for Oracle's Microservices and AI team.  I love software development, particularly
+microservices, mobile development, systems architecture, security, and AI.
+
+As a developer, I started working for M.I.T. in 1993 and I have collaborated on many software projects since. I wrote
+software for several internal HP projects, where I worked for over 15 years.  Then, I transitioned into mobile
+development and later into writing microservices.
+
+I participated as instructor in some of the best software development bootcamps in the U.S.A. and Europe.  I
+occasionally deliver microservices and mobile development courses, training individuals and the teams of some of the
+biggest companies worldwide.
+
+Outside work, I'm the proud dad of three wonderful women and a total keeb-junkie.
+
